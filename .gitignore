@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files
+.env
+.env.*
+
+# IDE / editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (large binaries – reproducible via 01_data_pipeline.py)
+# Uncomment the lines below if you prefer NOT to track parquet or PNG outputs:
+# data/*.parquet
+# data/*.png
