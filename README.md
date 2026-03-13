@@ -1,17 +1,8 @@
 # Statistical Arbitrage: BTC/ETH Cointegration Pairs Trading Strategy
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-3.0-150458?style=flat-square&logo=pandas&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-0.14-4051B5?style=flat-square)
-![ccxt](https://img.shields.io/badge/ccxt-4.3.89-1A1A2E?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/status-research--complete-brightgreen?style=flat-square)
+![Python 3.13](https://img.shields.io/badge/Python-3.13-blue) ![pandas](https://img.shields.io/badge/pandas-3.0-purple) ![statsmodels](https://img.shields.io/badge/statsmodels-0.14-blue) ![ccxt](https://img.shields.io/badge/ccxt-4.3.89-gray) ![license](https://img.shields.io/badge/license-MIT-green) ![status](https://img.shields.io/badge/status-research--complete-brightgreen)
 
-![Python 3.13](...) ![pandas](...) **Author:** Howard (Cheng-Hao) Hsu
-
-## Executive Summary (TL;DR)
-
----
+**Author:** Howard (Cheng-Hao) Hsu
 
 ## Executive Summary (TL;DR)
 
